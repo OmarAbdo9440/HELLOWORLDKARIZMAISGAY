@@ -1,4 +1,4 @@
-local currentVersion = 1.00
+currentVersion = 1.00
 
 o22_ANTICHEAT_LICENSES = {
     {1, "o22:code1", 22003, 2024, 4, 11, "o22"},

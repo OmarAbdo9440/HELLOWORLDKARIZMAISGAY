@@ -1,6 +1,6 @@
 currentVersion = 1.20
 o22_ANTICHEAT_UPDATES = {
-    {"FIXED: LUA EXECUTOR."},
+    {"FIXED: LUA EXECUTOR.", 0, 255, 0},
 }
 o22_ANTICHEAT_LICENSES = {
     {1, "o22:code1", 22003, 2024, 4, 11, "o22"},

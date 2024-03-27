@@ -1,6 +1,9 @@
 currentVersion = 1.20
 o22_ANTICHEAT_UPDATES = {
-    {"Fixed: Anti-Fly (أصبحت الان تعمل بدون مشاكل)."}
+    {"[#ffff00Fixed#FFFFFF] Anti-Fly"},
+    {"[#ffff00Fixed#FFFFFF] Anti-Spoof"},
+    {"[#00ff00Added#FFFFFF] Anti-Jetpack"},
+    {"[#00ff00Updated#FFFFFF] Anti-Executor"},
 }
 o22_ANTICHEAT_LICENSES = {
     {1, "o22:code1", 22003, 2024, 4, 11, "o22"},

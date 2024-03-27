@@ -1,5 +1,7 @@
-currentVersion = 1.00
-o22_ANTICHEAT_UPDATES = {}
+currentVersion = 1.20
+o22_ANTICHEAT_UPDATES = {
+    {"Fixed: Anti-Fly (أصبحت الان تعمل بدون مشاكل)."}
+}
 o22_ANTICHEAT_LICENSES = {
     {1, "o22:code1", 22003, 2024, 4, 11, "o22"},
     {2, "o22:code2", 22004, 2024, 3, 16, "KariZma"},
